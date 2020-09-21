@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.eb6ebb89.chunk.js",
+    "main.js.map": "/static/js/main.eb6ebb89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4953e6cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4953e6cd.js.map",
+    "static/js/2.0e862441.chunk.js": "/static/js/2.0e862441.chunk.js",
+    "static/js/2.0e862441.chunk.js.map": "/static/js/2.0e862441.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9b52de77aa15ff512004859426d96242.js": "/precache-manifest.9b52de77aa15ff512004859426d96242.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0e862441.chunk.js.LICENSE.txt": "/static/js/2.0e862441.chunk.js.LICENSE.txt",
+    "static/media/2000px-Japan_location_map.svg.jpg": "/static/media/2000px-Japan_location_map.svg.c6602819.jpg",
+    "static/media/DSC02104.jpeg": "/static/media/DSC02104.9d269d98.jpeg",
+    "static/media/DSC02548.jpg": "/static/media/DSC02548.a84cc2e2.jpg",
+    "static/media/Manji_sai.jpg": "/static/media/Manji_sai.385e0e9d.jpg",
+    "static/media/Muge_cheval_ryu_kyu.jpg": "/static/media/Muge_cheval_ryu_kyu.4a02c89c.jpg",
+    "static/media/OKINAWA map.jpg": "/static/media/OKINAWA map.4235ef76.jpg",
+    "static/media/banner.jpg": "/static/media/banner.0d883902.jpg",
+    "static/media/bo.jpg": "/static/media/bo.e4e7e244.jpg",
+    "static/media/dojoprof.jpg": "/static/media/dojoprof.1061c246.jpg",
+    "static/media/dsc00498.jpg": "/static/media/dsc00498.4782b907.jpg",
+    "static/media/eku.jpg": "/static/media/eku.4c2fa272.jpg",
+    "static/media/kama.jpg": "/static/media/kama.8d62c0b6.jpg",
+    "static/media/location.png": "/static/media/location.b3d46e2a.png",
+    "static/media/muge.jpg": "/static/media/muge.d7e76f3f.jpg",
+    "static/media/nunti.jpg": "/static/media/nunti.e66f2abf.jpg",
+    "static/media/sai.jpg": "/static/media/sai.6cba1114.jpg",
+    "static/media/sansetsukon.jpg": "/static/media/sansetsukon.4e5f0cae.jpg",
+    "static/media/sensei_Adaniya_NAMT.jpg": "/static/media/sensei_Adaniya_NAMT.f87ec008.jpg",
+    "static/media/suruchin.jpg": "/static/media/suruchin.461705ca.jpg",
+    "static/media/tekko.jpg": "/static/media/tekko.3c8ddd52.jpg",
+    "static/media/tunfa.jpg": "/static/media/tunfa.87f0b7fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4953e6cd.js",
+    "static/js/2.0e862441.chunk.js",
+    "static/js/main.eb6ebb89.chunk.js"
+  ]
+}
